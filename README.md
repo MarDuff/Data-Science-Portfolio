@@ -23,8 +23,6 @@ Data Structures and Algorithms Practice
 
 - Project 2:[Examining the Relationship between covid-19 Total deaths and Political Representation](https://github.com/MarDuff/Covid-death-hospitalization-per-state-political-representatio/blob/b89fb1189ec764013997edaa24b4396bc1c7fac1/Examining%20the%20Relationship%20between%20Total%20deaths%20and%20Political%20Representation.ipynb)
 
-- Project 3:
-
 
 ### 🤳 Connect with me:
 
