@@ -26,9 +26,10 @@ Data Structures and Algorithms Practice
 
 ### 🤳 Connect with me:
 
-Feel free to reach out to me on: [LinkedIn](https://github.com](https://www.linkedin.com/in/mardochée-duffaut-b98588223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFfoV4M9lS6i3y8QUhtigFA%3D%3D
-)
+Feel free to reach out to me on: [LinkedIn](https://github.com](https://www.linkedin.com/in/mardochée-duffaut-b98588223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFfoV4M9lS6i3y8QUhtigFA%3D%3D)
+
 OR 
+
 by email: marduff21@gmail.com
 
 
