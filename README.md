@@ -9,7 +9,7 @@ This portfolio summarizes the projects I have completed as part of my assignment
 
 ### Education and Training:
 
-- Bellevue University - Bachelor’s Degree, Data Science (Juin 2024)
+- Bellevue University - Bachelor's Degree, Data Science (Juin 2024)
   
 - GOC University (Haiti), Bachelor's Degree, Civil Engineering (Juillet 2011)
 
